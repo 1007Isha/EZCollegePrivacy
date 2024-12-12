@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Napix Privacy Policy website loaded.');
+    console.log('EZCollege Privacy Policy website loaded.');
 });
